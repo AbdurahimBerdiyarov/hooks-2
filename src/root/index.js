@@ -1,5 +1,4 @@
 import  React, { Component } from 'react';
-import Classes from '../components/classes';
 import Hooks from '../components/hooks';
 import { Container } from './style';
 
